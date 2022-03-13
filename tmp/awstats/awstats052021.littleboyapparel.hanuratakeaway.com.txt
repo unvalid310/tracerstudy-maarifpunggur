@@ -1,0 +1,322 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202105 will be lost/reset.
+# Last config file used to build this data file was /home/hanurata/tmp/awstats/awstats.littleboyapparel.hanuratakeaway.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2032                
+POS_TIME 2715                
+POS_VISITOR 3587                
+POS_DAY 5299                
+POS_DOMAIN 5475                
+POS_LOGIN 5806                
+POS_ROBOT 5961                
+POS_WORMS 6344                
+POS_EMAILSENDER 6475                
+POS_EMAILRECEIVER 6618                
+POS_SESSION 6694                
+POS_SIDER 6880                
+POS_FILETYPES 7648                
+POS_DOWNLOADS 7863                
+POS_OS 7911                
+POS_BROWSER 8068                
+POS_SCREENSIZE 8321                
+POS_UNKNOWNREFERER 8395                
+POS_UNKNOWNREFERERBROWSER 8926                
+POS_ORIGIN 9452                
+POS_SEREFERRALS 9589                
+POS_PAGEREFS 9733                
+POS_SEARCHWORDS 9881                
+POS_KEYWORDS 10033               
+POS_MISC 2379                
+POS_ERRORS 10092               
+POS_CLUSTER 5662                
+POS_SIDER_404 10196               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20210526191056 502 110039 20122738398309
+FirstTime 20210525190523
+LastTime 20210526191054
+LastUpdate 20210526191559 502 0 502 0 0
+TotalVisits 58                  
+TotalUnique 28                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 30                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 5 5 119802 4 5 102993
+1 6 6 88963 2 3 78249
+2 23 70 324794 1 5 65536
+3 15 44 261835 1 1 65536
+4 4 4 45088 1 2 66110
+5 6 6 60398 3 3 65536
+6 4 4 45167 3 4 101535
+7 4 4 45030 8 49 2301294
+8 4 4 45240 3 4 96922
+9 8 11 547575 3 3 82269
+10 6 9 431177 4 5 99950
+11 8 9 263737 3 3 96008
+12 4 4 34926 2 2 65536
+13 4 4 45102 4 4 66666
+14 4 4 45130 4 4 106603
+15 4 4 22448 4 5 103272
+16 2 2 45160 1 2 66110
+17 4 4 45106 3 3 104408
+18 12 55 1498208 2 3 84440
+19 19 108 2140668 8 9 159010
+20 2 2 43670 4 4 105013
+21 4 4 43557 2 2 86285
+22 2 2 43550 3 4 99316
+23 2 2 43576 2 2 87290
+END_TIME
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 30
+103.160.37.195 50 50 1225763 20210526190525 20210526190525 /
+65.36.241.48 40 40 0 20210526190412 20210526190412 /
+182.1.231.131 24 96 234952 20210526031703
+103.213.128.200 6 49 465647 20210525193130
+116.206.42.81 5 49 1284780 20210526191054 20210526191050 /produk/read_query
+195.154.61.206 4 7 201409 20210526115215
+51.15.191.81 3 5 315207 20210526110516
+114.125.14.40 2 3 298671 20210526190018 20210526190017 /berita/detail/buku-panduan-pkl-praktik-kerja-lapangan
+114.125.12.164 2 15 625116 20210526185957 20210526185954 /template/phpmu-marketrancak/fonts/Linearicons/Linearicons/Font/Linearicons.ttf
+54.218.144.65 2 4 50145 20210526022450
+185.205.194.179 1 1 0 20210526052012
+52.39.216.242 1 1 22300 20210526034748
+34.219.128.246 1 2 25034 20210526022400
+104.236.20.12 1 1 12661 20210526180457
+34.209.63.69 1 2 25070 20210526023303
+114.125.15.60 1 1 18953 20210526185925 20210526185925 /berita/detail/buku-panduan-pkl-praktik-kerja-lapangan
+114.125.29.32 1 8 115478 20210526185959 20210526185959 /produk/read_query
+114.125.13.52 1 8 165446 20210526185957 20210526185957 /template/phpmu-marketrancak/plugins/font-awesome/fonts/fontawesome-webfont.woff2
+34.77.162.17 1 1 139319 20210526030848
+45.140.13.63 1 1 15291 20210526052013
+34.96.130.19 1 1 140545 20210526094559
+163.172.72.231 1 1 76011 20210526001959
+206.189.24.121 1 1 139496 20210526180812
+193.200.151.103 1 1 139474 20210526095118
+62.4.14.198 1 2 29063 20210526114722
+212.83.146.233 0 1 140936 
+114.125.13.160 0 8 57539 
+114.125.28.184 1 10 321196 20210526185959 20210526185959 /produk/read_query
+54.201.115.179 1 1 22180 20210526014554
+34.220.164.153 1 1 22225 20210526014716
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 2
+20210525 18 61 683630 4
+20210526 138 310 5646277 54
+END_DAY
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 8
+in 57 100 1706701
+us 51 55 598975
+id 32 149 1837351
+cn 5 49 1284780
+fr 5 10 371408
+gb 4 6 391218
+ru 1 1 0
+ua 1 1 139474
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 6
+bingpreview 43 2182653 20210526070147 0
+FreeWebMonitoring[\x20]SiteChecker/ 24 1572864 20210526184809 0
+SemrushBot/ 16 285699 20210526183651 0
+bingbot/ 9 178215 20210526141207 0
+AhrefsBot/ 7 120891 20210526190002 0
+Googlebot/ 1 12713 20210526015747 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+1h+ 6
+15mn-30mn 1
+5mn-15mn 1
+30mn-1h 3
+0s-30s 38
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 12
+/ 102 2090205 41 39
+/produk/read_query 24 528 2 2
+/auth/login 14 256701 6 4
+/berita/detail/buku-panduan-pkl-praktik-kerja-lapangan 5 94779 4 0
+/template/phpmu-marketrancak/plugins/font-awesome/fonts/fontawesome-webfont.woff2 2 143792 1 0
+/asset/images/ 2 26 1 0
+/template/phpmu-marketrancak/fonts/Linearicons/Linearicons/Font/Linearicons.ttf 2 996312 0 0
+/template/phpmu-marketrancak/fonts/Linearicons/Linearicons/Font/demo-files/ 1 0 0 1
+/template/phpmu-marketrancak/plugins/owl-carousel/assets/ 1 0 0 1
+/template/phpmu-marketrancak/plugins/slick/slick/ 1 0 1 0
+/index.php 1 139496 1 1
+/template/phpmu-marketrancak/plugins/bootstrap4/css/ 1 0 1 1
+END_SIDER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+ttf 2 996312 0 0
+php 1 139496 0 0
+woff2 2 143792 0 0
+Unknown 43 352008 0 0
+png 27 1045989 0 0
+css 68 734661 0 0
+js 120 827418 0 0
+html 108 2090231 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 7
+linux 21 14
+win10 145 30
+macosx8 1 1
+winlong 1 1
+linuxandroid 99 11
+win7 4 4
+Unknown 100 95
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 10
+Unknown 100 95
+firefox88.0 96 24
+chrome83.0.4103.97 6 6
+firefox24.0 1 1
+firefox59.0 2 2
+chrome50.0.2661.75 2 2
+chrome90.0.4430.210 99 11
+chrome26.0.1410.65 1 1
+chrome90.0.4430.212 49 6
+firefox58.0 15 8
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20210526094559
+got_(https://github.com/sindresorhus/got) 20210526180457
+WhatsApp/2.21.9.15_A 20210526190018
+Go-http-client/1.1 20210526190525
+InternetSeer.com 20210526190412
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+InternetSeer.com 20210526190412
+Go-http-client/1.1 20210526190525
+WhatsApp/2.21.9.15_A 20210526190018
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20210526094559
+got_(https://github.com/sindresorhus/got) 20210526180457
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 125 137
+From1 2 2
+From2 0 0
+From3 0 0
+From4 29 232
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+404 4 2852
+307 22 0
+303 1 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 4
+/wp-content/plugins/jquery-html5-file-upload/readme.txt 1 http://www.google.com/
+/wp-content/plugins/wp-mobile-detector/readme.txt 1 http://www.google.com/
+/wp-content/plugins/ioptimizations/IOptimizes.php 1 -
+/wordpress/wp-admin/ 1 http://littleboyapparel.com/
+END_SIDER_404

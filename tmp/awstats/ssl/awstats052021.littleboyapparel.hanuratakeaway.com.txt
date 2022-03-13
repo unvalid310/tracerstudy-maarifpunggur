@@ -1,0 +1,401 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202105 will be lost/reset.
+# Last config file used to build this data file was /home/hanurata/tmp/awstats/ssl/awstats.littleboyapparel.hanuratakeaway.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2036                
+POS_TIME 2721                
+POS_VISITOR 3601                
+POS_DAY 4453                
+POS_DOMAIN 4631                
+POS_LOGIN 4935                
+POS_ROBOT 5090                
+POS_WORMS 5560                
+POS_EMAILSENDER 5691                
+POS_EMAILRECEIVER 5834                
+POS_SESSION 5910                
+POS_SIDER 6105                
+POS_FILETYPES 10087               
+POS_DOWNLOADS 10326               
+POS_OS 10374               
+POS_BROWSER 10531               
+POS_SCREENSIZE 10820               
+POS_UNKNOWNREFERER 10894               
+POS_UNKNOWNREFERERBROWSER 11336               
+POS_ORIGIN 11773               
+POS_SEREFERRALS 11909               
+POS_PAGEREFS 12072               
+POS_SEARCHWORDS 12220               
+POS_KEYWORDS 12372               
+POS_MISC 2385                
+POS_ERRORS 12431               
+POS_CLUSTER 4791                
+POS_SIDER_404 12537               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20210526190946 1253 317965 9834021869613
+FirstTime 20210525194334
+LastTime 20210526164122
+LastUpdate 20210526191559 1253 0 1253 0 0
+TotalVisits 19                  
+TotalUnique 18                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 20                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 0 0
+JavascriptDisabled 0 0 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 24 34 1336277 19 24 1117727
+1 226 330 2163232 39 45 208913
+2 172 316 10872526 61 63 154203
+3 20 21 196396 15 17 840364
+4 42 57 1219717 17 19 329859
+5 0 0 0 10 15 853586
+6 4 51 1399622 9 9 162227
+7 0 0 0 7 7 157257
+8 2 8 91786 8 9 218870
+9 0 0 0 8 9 154642
+10 2 3 285443 14 16 303607
+11 3 5 226655 11 12 307324
+12 0 0 0 8 9 134701
+13 0 0 0 3 3 84094
+14 4 4 74997 6 16 376909
+15 0 0 0 4 5 124385
+16 1 1 140664 2 2 574
+17 0 0 0 7 8 159137
+18 0 0 0 9 11 381635
+19 2 3 176753 5 5 255750
+20 7 33 1355285 6 21 228925
+21 0 0 0 6 8 728298
+22 0 0 0 31 33 673466
+23 4 5 28804 15 16 246181
+END_TIME
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 20
+182.1.231.131 473 618 6528449 20210526041439
+36.77.95.214 7 33 1355285 20210525202958
+116.206.42.111 5 65 4503413 20210526021845
+104.245.145.118 4 4 74997 20210526145800
+114.122.101.192 4 51 1399622 20210526060823
+74.125.210.38 3 26 838455 20210526025031
+115.178.212.41 2 3 176753 20210525194720
+51.15.191.81 2 2 289726 20210526111841
+74.125.210.35 2 25 2595311 20210526025031
+202.152.130.6 2 8 91786 20210526084210
+212.83.146.233 2 3 29076 20210526114240
+50.112.211.103 1 2 24897 20210526015145
+54.214.133.255 1 1 22242 20210526013531
+74.125.150.38 1 1 15651 20210526025105
+34.77.162.17 1 1 139756 20210526044310
+74.125.150.36 1 1 15665 20210526025050
+34.86.35.11 1 1 140664 20210526164122
+195.154.61.206 1 1 0 20210526113918
+62.4.14.198 0 2 193296 
+74.125.210.32 0 23 1133113 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 2
+20210525 13 41 1560842 3
+20210526 500 830 18007315 16
+END_DAY
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 6
+id 488 713 9551895
+us 11 81 4925754
+cn 5 65 4503413
+ca 4 4 74997
+fr 3 6 222372
+gb 2 2 289726
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 8
+bingbot/ 123 2408805 20210526185724 0
+SemrushBot/ 34 611241 20210526182142 0
+FreeWebMonitoring[\x20]SiteChecker/ 24 1720320 20210526190946 0
+bingpreview 12 2564628 20210526050702 0
+AhrefsBot/ 11 166072 20210526183032 0
+facebookexternalhit/ 5 603247 20210526185555 0
+Googlebot/ 4 43028 20210526015806 0
+YandexBot/ 1 76127 20210526011139 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+0s-30s 13
+1h+ 1
+30s-2mn 2
+15mn-30mn 1
+2mn-5mn 1
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 93
+/produk/read_query 157 942 0 5
+/administrator/pembelian 45 271796 0 0
+/ 36 1178916 8 5
+/administrator/halamanbaru 21 121521 0 0
+/administrator/kategori_produk 19 104109 0 0
+/administrator/paket 18 98687 0 0
+/administrator/identitaswebsite 17 160803 0 1
+/main 10 184876 0 0
+/administrator/save_menuwebsite 7 1116 0 0
+/administrator/edit_paket/1 6 33622 0 0
+/administrator/menuwebsite 6 48606 0 0
+/halaman/detail/tentang-kami 6 93873 0 0
+/auth/login 5 63669 1 0
+/administrator/edit_halamanbaru/52 5 27918 0 0
+/administrator/edit_kategori_produk/1 5 27148 0 0
+/administrator/edit_halamanbaru/54 5 28169 0 0
+/administrator/reseller 5 27104 0 0
+/administrator/edit_kategori_produk/2 4 21562 0 0
+/administrator/home 4 25179 0 0
+/administrator 4 6408 1 0
+/produk 4 78789 0 0
+/halaman/detail/cara-belanja 4 65854 0 0
+/halaman/detail/halaman-masih-kosong 4 58945 0 0
+/administrator/edit_paket/3 4 22432 0 0
+/template/phpmu-marketrancak/fonts/Linearicons/Linearicons/Font/Linearicons.ttf 4 1494468 1 0
+/administrator/komplain 1 5175 0 0
+/administrator/pembayaran_konsumen 1 5186 0 0
+/halaman/detail/mitra-littleboy 3 47903 0 1
+/administrator/edit_supplier/1 1 5439 0 0
+/u/littleboy-store 1 14513 0 0
+/halaman/detail/kebijakan-privasi 3 46987 2 2
+/administrator/penjualan_konsumen 1 5396 0 0
+/administrator/subscribe 1 5367 0 1
+/administrator/detail_konsumen/1 3 24050 0 0
+/administrator/mutasi 1 5193 0 0
+/produk/detail/dijual-tanah-murah-112m 3 49711 2 1
+/administrator/reset_password/q173s8hs1jl04st35169ccl8o7 2 2204 1 0
+/administrator/tambah_pembelian 3 17063 0 0
+/administrator/tambah_halamanbaru 2 10628 0 0
+/administrator/background 1 5365 0 0
+/administrator/edit_halamanbaru/3 1 5765 0 0
+/administrator/imagesslider 1 5394 0 0
+/produk/quick_view 2 1832 0 0
+//asset/admin/bootstrap/fonts/glyphicons-halflings-regular.woff2 3 36056 0 1
+/administrator/supplier 2 10804 0 0
+/administrator/edit_konsumen/1 1 6531 0 0
+/administrator/pembayaran_reseller 1 5176 0 0
+/administrator/detail_pembelian/30 1 5433 0 0
+/administrator/reseller_transaksi 1 5174 0 0
+/administrator/ongkir_driver 2 10484 0 0
+/konfirmasi/tracking 1 14001 0 0
+/administrator/reseller_paket 1 5167 0 0
+/produk/reseller_cari_produk 1 3999 0 0
+/members/tambah_pembelian 1 14860 0 0
+/produk/kategori/properti 2 33972 0 0
+/administrator/produk 1 8131 0 0
+/administrator/penjualan 1 5243 0 0
+/administrator/edit_halamanbaru/53 3 16703 0 0
+/administrator/withdraw 1 5212 0 0
+/administrator/lupapassword 1 1546 0 0
+/administrator/penawaran 1 5193 0 0
+/template/phpmu-marketrancak/plugins/font-awesome/css/ 2 0 2 1
+/konfirmasi 2 27972 0 0
+/administrator/konsumen 2 10956 0 0
+/produk/kategori/kendaraan 1 15438 0 0
+/administrator/rekening 1 5452 0 0
+/administrator/detail_reseller/1 2 16664 0 0
+/administrator/detail_supplier/1 1 5326 0 0
+/produk/detail/bobo-kemko-2345-dan-68 1 17724 0 0
+/administrator/edit_halamanbaru/57 1 5439 0 0
+/asset/images/ 1 13 0 1
+/administrator/testimoni 1 5438 0 0
+/administrator/detail_pembelian/28 2 10848 0 0
+/administrator/ 1 1602 0 0
+/administrator/logowebsite 1 5323 0 0
+/berita 1 17150 0 0
+/administrator/edit_paket/2 4 22391 0 0
+/members/pembelian 1 14261 0 0
+/administrator/detail_pembelian/34 1 5410 0 0
+/administrator/tambah_ongkir_driver 1 6141 0 0
+/administrator/tambah_kategori_produk 1 5347 0 0
+/template/phpmu-marketrancak/plugins/font-awesome/fonts/fontawesome-webfont.woff2 4 215688 0 0
+/administrator/edit_kategori_produk/4 3 16273 0 0
+/administrator/edit_kategori_produk/3 3 16116 0 0
+/administrator/templatewebsite 1 5411 0 0
+/administrator/tambah_kategori_produk_sub 1 5409 0 0
+/halaman/detail/perjanjian-pengguna 2 34602 1 0
+/administrator/kategori_produk_sub 4 22441 0 0
+/produk/reseller 1 14251 0 0
+/administrator/sopir 1 5339 0 0
+/members/profile 1 15016 0 0
+/halaman/detail/star-seller-1-tahun 2 29518 0 0
+/halaman/detail/star-seller-6-bulan 1 14939 0 0
+END_SIDER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+css 75 638779 0 0
+jpg 122 6234886 0 0
+html 40 1180531 0 0
+Unknown 462 2370523 0 0
+woff2 7 251744 0 0
+png 45 5776563 0 0
+jpeg 11 746303 0 0
+ttf 4 1494468 0 0
+js 105 874360 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 7
+linuxandroid 68 7
+Unknown 5 4
+ios_iphone 51 4
+linux 10 7
+win10 731 485
+macosx8 2 2
+win7 4 4
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 11
+chrome28.0.1500.71 2 2
+chrome90.0.4430.212 649 478
+chrome90.0.4430.93 74 5
+chrome79.0.3945.147 3 2
+chrome83.0.4103.97 2 2
+safari13.1.2 51 4
+Unknown 5 4
+chrome73.0.3683.75 8 2
+chrome76.0.3809.132 65 5
+opera52.0.2871.99 4 4
+firefox58.0 8 5
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+WhatsApp/2.21.8.17_A 20210526021453
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20210526164122
+Go-http-client/1.1 20210526015148
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+Go-http-client/1.1 20210526015148
+WhatsApp/2.21.8.17_A 20210526021453
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20210526164122
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 26 30
+From1 0 0
+From2 1 1
+From3 0 0
+From4 486 840
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+307 96 0
+303 54 0
+404 15 9166
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 12
+/wp-content/uploads/2019/06/blog-10.jpg 1 -
+/wp-content/uploads/2019/05/06.jpg 1 -
+/asset/foto_user/users.gif 1 https://littleboyapparel.com/administrator/detail_supplier/1
+/produk/index.html 1 -
+/product/bobo-kemko-6810y/ 1 -
+/product/kaos-ranbow-tee-unisex/ 3 -
+/template/phpmu-marketrancak/plugins/owl-carousel/assets/ow 1 -
+/2019/06/27/top-10-back-to-school-looks/ 1 -
+/asset/images/icon.png 1 -
+/produk/do_action 1 -
+/wp-content/themes/alternate-lite/inc/customizer.php 1 -
+/product/baby-gift-pack-dress/ 2 -
+END_SIDER_404

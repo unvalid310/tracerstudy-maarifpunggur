@@ -1,0 +1,297 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202105 will be lost/reset.
+# Last config file used to build this data file was /home/hanurata/tmp/awstats/awstats.tracerstudy.maarifpunggur.sch.id.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2029                
+POS_TIME 2712                
+POS_VISITOR 3483                
+POS_DAY 3836                
+POS_DOMAIN 4012                
+POS_LOGIN 4274                
+POS_ROBOT 4429                
+POS_WORMS 4561                
+POS_EMAILSENDER 4692                
+POS_EMAILRECEIVER 4835                
+POS_SESSION 4911                
+POS_SIDER 5083                
+POS_FILETYPES 6715                
+POS_DOWNLOADS 6963                
+POS_OS 7011                
+POS_BROWSER 7104                
+POS_SCREENSIZE 7196                
+POS_UNKNOWNREFERER 7270                
+POS_UNKNOWNREFERERBROWSER 7391                
+POS_ORIGIN 7507                
+POS_SEREFERRALS 7643                
+POS_PAGEREFS 7787                
+POS_SEARCHWORDS 7935                
+POS_KEYWORDS 8087                
+POS_MISC 2376                
+POS_ERRORS 8146                
+POS_CLUSTER 4130                
+POS_SIDER_404 8245                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20210526191315 450 121634 14942414790157
+FirstTime 20210525190517
+LastTime 20210526191315
+LastUpdate 20210526191601 450 0 450 0 0
+TotalVisits 18                  
+TotalUnique 5                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 5                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+PDFSupport 0 0 0
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 8448 0 0 0
+1 1 1 8448 0 0 0
+2 1 1 8448 0 0 0
+3 1 1 8442 0 0 0
+4 6 6 48461 0 0 0
+5 1 1 8448 0 0 0
+6 1 1 8448 0 0 0
+7 1 1 8448 0 0 0
+8 1 1 8448 0 0 0
+9 1 1 21002 0 0 0
+10 48 86 1958126 0 20 10811
+11 56 84 677887 0 17 9104
+12 29 98 2774995 2 9 2845
+13 1 1 7951 0 0 0
+14 1 1 7944 0 0 0
+15 1 1 7951 0 0 0
+16 1 1 7951 0 0 0
+17 1 1 10312 0 0 0
+18 15 16 82616 1 2 569
+19 6 6 27093 2 2 1308
+20 61 71 481720 0 9 2276
+21 6 6 28630 0 2 1138
+22 1 1 8448 0 0 0
+23 1 1 8448 0 0 0
+END_TIME
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 5
+110.137.37.70 141 240 3875609 20210526191315 20210526181747 /api/rest_kuest_kategori/geKategoriAlumni
+36.77.95.214 65 75 493454 20210525214526
+103.160.37.195 25 25 237872 20210526190527 20210526190527 /
+50.7.93.85 7 44 1580165 20210526124208
+182.1.231.131 5 5 40013 20210526041458
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 2
+20210525 70 80 535694 3
+20210526 173 309 5691419 15
+END_DAY
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 3
+id 211 320 4409076
+in 25 25 237872
+us 7 44 1580165
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+1h+ 6
+0s-30s 6
+30s-2mn 1
+30mn-1h 3
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 40
+/ 52 457894 16 12
+/api/rest_chart/chart_kegiatan 44 8756 0 2
+/api/rest_admin 24 2766 0 0
+/assets/themes/default/plugins/chartists/chartist.min.js.map 21 241668 0 0
+/api/rest_jurusan 12 3528 0 1
+/berita 9 63084 0 0
+/administrator/kues_alumni/kategori 6 59801 0 0
+/cms-admin/alumni/tool/jurusan 6 60138 0 0
+/cms-admin/admin 6 67052 1 0
+/api/rest_alumni 5 35115 1 1
+/informasi 5 34384 0 0
+/api/rest_instansi 4 152 0 0
+/cms-admin/alumni/tool/import 4 26301 0 0
+/cms-admin/instansi 4 48238 0 0
+/cms-admin/alumni 4 51360 0 0
+/cms-admin/alumni/create 3 25953 0 0
+/cms-admin 3 22680 0 0
+/auth 2 4224 0 0
+/cms-admin/penilaian 2 14732 0 0
+/api/rest_auth/login 2 246 0 0
+/api/rest_kebutuhan 2 428 0 0
+/cms-admin/pengguna 2 20150 0 0
+/api/rest_kuest_kategori/geKategoriAlumni 2 498 0 0
+/assets/themes/default/css/fonts/mfn-icons.woff 2 160264 0 0
+/api/rest_user 2 8782 0 0
+/api/rest_kegiatan 1 291 0 0
+/assets/admin/default/fonts/simple-Line-Icons.woff 1 59324 0 0
+/administrator/kues_alumni 1 0 0 0
+/cms-admin/kesesuaian 1 9084 0 0
+/cms-admin/berita 1 9742 0 0
+/api/rest_kebutuhan/geTable 1 38 0 0
+/cms-admin/kebutuhan 1 8518 0 0
+/cms-admin/informasi 1 9736 0 0
+/assets/admin/default/vendor/bootstrap/css/bootstrap.min.css.map 1 559636 0 0
+/assets/admin/default/vendor/dropify/fonts/dropify.woff 1 3052 0 0
+/cms-admin/kegiatan 1 8093 0 0
+/api/rest_berita 1 1366 0 0
+/api/rest_alumni/export_xls 1 17546 0 0
+/api/rest_informasi 1 1074 0 0
+/assets/admin/default/vendor/font-awesome/fonts/fontawesome-webfont.woff2 1 77160 0 0
+END_SIDER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+js 77 1246960 0 0
+svg 1 770 0 0
+jpg 19 1627222 0 0
+map 22 801304 0 0
+html 52 457894 0 0
+woff2 1 77160 0 0
+Unknown 164 623856 0 0
+png 16 861317 0 0
+woff 4 222640 0 0
+css 33 307990 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 2
+Unknown 25 25
+win10 364 218
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 2
+chrome90.0.4430.212 364 218
+Unknown 25 25
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+Go-http-client/1.1 20210526190527
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Go-http-client/1.1 20210526190527
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 69 69
+From1 0 0
+From2 0 0
+From3 0 0
+From4 174 320
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+404 48 27312
+500 1 739
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 8
+/images/logo-retina.png 2 http://tracerstudy.maarifpunggur.sch.id/
+/cms-admin/alumni/tool/jurusan 1 http://tracerstudy.maarifpunggur.sch.id/cms-admin/alumni
+/api/rest_kues_kategori/getKategoriAlumni 1 -
+/assets/admin/default/vendor/bootstrap-datepicker/css/bootstrap-datepicker3.min.css.map 1 -
+/assets/themes/default/images/stripes/stripes_10_w.png 5 http://tracerstudy.maarifpunggur.sch.id/assets/themes/default/css/global.css
+/robots.txt 2 -
+/assets/admin/default/vendor/chartist-plugin-tooltip/chartist-plugin-tooltip.css.map 1 -
+/assets/themes/default/images/stripes/stripes_3_b.png 35 http://tracerstudy.maarifpunggur.sch.id/assets/themes/default/css/global.css
+END_SIDER_404

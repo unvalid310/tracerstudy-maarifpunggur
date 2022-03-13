@@ -1,0 +1,466 @@
+[11-Mar-2021 23:14:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mcrypt_encrypt() in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php:8
+Stack trace:
+#0 /home/hanurata/maarifpunggur.sch.id/application/modules/api/controllers/rest_auth.php(96): Auth_Lib->encryptIt('assss')
+#1 /home/hanurata/maarifpunggur.sch.id/system/core/CodeIgniter.php(359): Rest_auth->login()
+#2 /home/hanurata/maarifpunggur.sch.id/index.php(202): require_once('/home/hanurata/...')
+#3 {main}
+  thrown in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php on line 8
+[11-Mar-2021 23:14:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mcrypt_encrypt() in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php:8
+Stack trace:
+#0 /home/hanurata/maarifpunggur.sch.id/application/modules/api/controllers/rest_auth.php(96): Auth_Lib->encryptIt('assss')
+#1 /home/hanurata/maarifpunggur.sch.id/system/core/CodeIgniter.php(359): Rest_auth->login()
+#2 /home/hanurata/maarifpunggur.sch.id/index.php(202): require_once('/home/hanurata/...')
+#3 {main}
+  thrown in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php on line 8
+[11-Mar-2021 23:14:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mcrypt_encrypt() in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php:8
+Stack trace:
+#0 /home/hanurata/maarifpunggur.sch.id/application/modules/api/controllers/rest_auth.php(96): Auth_Lib->encryptIt('assss')
+#1 /home/hanurata/maarifpunggur.sch.id/system/core/CodeIgniter.php(359): Rest_auth->login()
+#2 /home/hanurata/maarifpunggur.sch.id/index.php(202): require_once('/home/hanurata/...')
+#3 {main}
+  thrown in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php on line 8
+[11-Mar-2021 23:14:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mcrypt_encrypt() in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php:8
+Stack trace:
+#0 /home/hanurata/maarifpunggur.sch.id/application/modules/api/controllers/rest_auth.php(96): Auth_Lib->encryptIt('assss')
+#1 /home/hanurata/maarifpunggur.sch.id/system/core/CodeIgniter.php(359): Rest_auth->login()
+#2 /home/hanurata/maarifpunggur.sch.id/index.php(202): require_once('/home/hanurata/...')
+#3 {main}
+  thrown in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php on line 8
+[11-Mar-2021 23:14:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mcrypt_encrypt() in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php:8
+Stack trace:
+#0 /home/hanurata/maarifpunggur.sch.id/application/modules/api/controllers/rest_auth.php(96): Auth_Lib->encryptIt('assss')
+#1 /home/hanurata/maarifpunggur.sch.id/system/core/CodeIgniter.php(359): Rest_auth->login()
+#2 /home/hanurata/maarifpunggur.sch.id/index.php(202): require_once('/home/hanurata/...')
+#3 {main}
+  thrown in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php on line 8
+[11-Mar-2021 23:14:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mcrypt_encrypt() in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php:8
+Stack trace:
+#0 /home/hanurata/maarifpunggur.sch.id/application/modules/api/controllers/rest_auth.php(96): Auth_Lib->encryptIt('assss')
+#1 /home/hanurata/maarifpunggur.sch.id/system/core/CodeIgniter.php(359): Rest_auth->login()
+#2 /home/hanurata/maarifpunggur.sch.id/index.php(202): require_once('/home/hanurata/...')
+#3 {main}
+  thrown in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php on line 8
+[11-Mar-2021 23:15:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mcrypt_encrypt() in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php:8
+Stack trace:
+#0 /home/hanurata/maarifpunggur.sch.id/application/modules/api/controllers/rest_auth.php(96): Auth_Lib->encryptIt('assss')
+#1 /home/hanurata/maarifpunggur.sch.id/system/core/CodeIgniter.php(359): Rest_auth->login()
+#2 /home/hanurata/maarifpunggur.sch.id/index.php(202): require_once('/home/hanurata/...')
+#3 {main}
+  thrown in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php on line 8
+[11-Mar-2021 23:15:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mcrypt_encrypt() in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php:8
+Stack trace:
+#0 /home/hanurata/maarifpunggur.sch.id/application/modules/api/controllers/rest_auth.php(96): Auth_Lib->encryptIt('assss')
+#1 /home/hanurata/maarifpunggur.sch.id/system/core/CodeIgniter.php(359): Rest_auth->login()
+#2 /home/hanurata/maarifpunggur.sch.id/index.php(202): require_once('/home/hanurata/...')
+#3 {main}
+  thrown in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php on line 8
+[11-Mar-2021 23:19:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mcrypt_encrypt() in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php:8
+Stack trace:
+#0 /home/hanurata/maarifpunggur.sch.id/application/views/auth/default/signin/index.php(13): Auth_Lib->encryptIt('password')
+#1 /home/hanurata/maarifpunggur.sch.id/application/third_party/MX/Loader.php(321): include('/home/hanurata/...')
+#2 /home/hanurata/maarifpunggur.sch.id/application/third_party/MX/Loader.php(269): MX_Loader->_ci_load(Array)
+#3 /home/hanurata/maarifpunggur.sch.id/application/core/MY_Controller.php(114): MX_Loader->view('auth/default/si...', Array, true)
+#4 /home/hanurata/maarifpunggur.sch.id/application/modules/auth/controllers/auth.php(14): MY_Controller->load_auth('signin/index')
+#5 /home/hanurata/maarifpunggur.sch.id/system/core/CodeIgniter.php(359): Auth->index()
+#6 /home/hanurata/maarifpunggur.sch.id/index.php(202): require_once('/home/hanurata/...')
+#7 {main}
+  thrown in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php on line 8
+[11-Mar-2021 23:20:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mcrypt_encrypt() in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php:8
+Stack trace:
+#0 /home/hanurata/maarifpunggur.sch.id/application/views/auth/default/signin/index.php(13): Auth_Lib->encryptIt('password')
+#1 /home/hanurata/maarifpunggur.sch.id/application/third_party/MX/Loader.php(321): include('/home/hanurata/...')
+#2 /home/hanurata/maarifpunggur.sch.id/application/third_party/MX/Loader.php(269): MX_Loader->_ci_load(Array)
+#3 /home/hanurata/maarifpunggur.sch.id/application/core/MY_Controller.php(114): MX_Loader->view('auth/default/si...', Array, true)
+#4 /home/hanurata/maarifpunggur.sch.id/application/modules/auth/controllers/auth.php(14): MY_Controller->load_auth('signin/index')
+#5 /home/hanurata/maarifpunggur.sch.id/system/core/CodeIgniter.php(359): Auth->index()
+#6 /home/hanurata/maarifpunggur.sch.id/index.php(202): require_once('/home/hanurata/...')
+#7 {main}
+  thrown in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php on line 8
+[11-Mar-2021 23:21:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mcrypt_decrypt() in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php:14
+Stack trace:
+#0 /home/hanurata/maarifpunggur.sch.id/application/models/tb_user_m.php(14): Auth_Lib->decryptIt('password')
+#1 /home/hanurata/maarifpunggur.sch.id/application/modules/api/controllers/rest_auth.php(71): Tb_user_m->login()
+#2 /home/hanurata/maarifpunggur.sch.id/system/core/CodeIgniter.php(359): Rest_auth->login()
+#3 /home/hanurata/maarifpunggur.sch.id/index.php(202): require_once('/home/hanurata/...')
+#4 {main}
+  thrown in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php on line 14
+[11-Mar-2021 23:22:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mcrypt_encrypt() in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php:8
+Stack trace:
+#0 /home/hanurata/maarifpunggur.sch.id/application/views/auth/default/signin/index.php(13): Auth_Lib->encryptIt('password')
+#1 /home/hanurata/maarifpunggur.sch.id/application/third_party/MX/Loader.php(321): include('/home/hanurata/...')
+#2 /home/hanurata/maarifpunggur.sch.id/application/third_party/MX/Loader.php(269): MX_Loader->_ci_load(Array)
+#3 /home/hanurata/maarifpunggur.sch.id/application/core/MY_Controller.php(114): MX_Loader->view('auth/default/si...', Array, true)
+#4 /home/hanurata/maarifpunggur.sch.id/application/modules/auth/controllers/auth.php(14): MY_Controller->load_auth('signin/index')
+#5 /home/hanurata/maarifpunggur.sch.id/system/core/CodeIgniter.php(359): Auth->index()
+#6 /home/hanurata/maarifpunggur.sch.id/index.php(202): require_once('/home/hanurata/...')
+#7 {main}
+  thrown in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php on line 8
+[11-Mar-2021 23:25:58 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/hanurata/maarifpunggur.sch.id/application/modules/api/controllers/rest_auth.php on line 96
+[11-Mar-2021 23:26:03 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/hanurata/maarifpunggur.sch.id/application/modules/api/controllers/rest_auth.php on line 96
+[11-Mar-2021 23:26:12 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/hanurata/maarifpunggur.sch.id/application/modules/api/controllers/rest_auth.php on line 96
+[11-Mar-2021 23:26:14 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/hanurata/maarifpunggur.sch.id/application/modules/api/controllers/rest_auth.php on line 96
+[11-Mar-2021 23:26:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mcrypt_encrypt() in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php:8
+Stack trace:
+#0 /home/hanurata/maarifpunggur.sch.id/application/modules/api/controllers/rest_auth.php(96): Auth_Lib->encryptIt('jjjkk')
+#1 /home/hanurata/maarifpunggur.sch.id/system/core/CodeIgniter.php(359): Rest_auth->login()
+#2 /home/hanurata/maarifpunggur.sch.id/index.php(202): require_once('/home/hanurata/...')
+#3 {main}
+  thrown in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php on line 8
+[11-Mar-2021 23:27:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mcrypt_encrypt() in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php:8
+Stack trace:
+#0 /home/hanurata/maarifpunggur.sch.id/application/modules/auth/controllers/auth.php(15): Auth_Lib->encryptIt('jjjkk')
+#1 /home/hanurata/maarifpunggur.sch.id/system/core/CodeIgniter.php(359): Auth->index()
+#2 /home/hanurata/maarifpunggur.sch.id/index.php(202): require_once('/home/hanurata/...')
+#3 {main}
+  thrown in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php on line 8
+[11-Mar-2021 23:27:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mcrypt_encrypt() in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php:8
+Stack trace:
+#0 /home/hanurata/maarifpunggur.sch.id/application/modules/auth/controllers/auth.php(15): Auth_Lib->encryptIt('jjjkk')
+#1 /home/hanurata/maarifpunggur.sch.id/system/core/CodeIgniter.php(359): Auth->index()
+#2 /home/hanurata/maarifpunggur.sch.id/index.php(202): require_once('/home/hanurata/...')
+#3 {main}
+  thrown in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php on line 8
+[11-Mar-2021 23:36:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function encode() on null in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php:8
+Stack trace:
+#0 /home/hanurata/maarifpunggur.sch.id/application/modules/auth/controllers/auth.php(15): Auth_Lib->encryptIt('jjjkk')
+#1 /home/hanurata/maarifpunggur.sch.id/system/core/CodeIgniter.php(359): Auth->index()
+#2 /home/hanurata/maarifpunggur.sch.id/index.php(202): require_once('/home/hanurata/...')
+#3 {main}
+  thrown in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php on line 8
+[11-Mar-2021 23:36:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function encode() on null in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php:8
+Stack trace:
+#0 /home/hanurata/maarifpunggur.sch.id/application/modules/auth/controllers/auth.php(15): Auth_Lib->encryptIt('jjjkk')
+#1 /home/hanurata/maarifpunggur.sch.id/system/core/CodeIgniter.php(359): Auth->index()
+#2 /home/hanurata/maarifpunggur.sch.id/index.php(202): require_once('/home/hanurata/...')
+#3 {main}
+  thrown in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php on line 8
+[11-Mar-2021 23:36:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function encode() on null in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php:8
+Stack trace:
+#0 /home/hanurata/maarifpunggur.sch.id/application/modules/auth/controllers/auth.php(15): Auth_Lib->encryptIt('jjjkk')
+#1 /home/hanurata/maarifpunggur.sch.id/system/core/CodeIgniter.php(359): Auth->index()
+#2 /home/hanurata/maarifpunggur.sch.id/index.php(202): require_once('/home/hanurata/...')
+#3 {main}
+  thrown in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php on line 8
+[11-Mar-2021 23:36:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function encode() on null in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php:8
+Stack trace:
+#0 /home/hanurata/maarifpunggur.sch.id/application/modules/auth/controllers/auth.php(15): Auth_Lib->encryptIt('jjjkk')
+#1 /home/hanurata/maarifpunggur.sch.id/system/core/CodeIgniter.php(359): Auth->index()
+#2 /home/hanurata/maarifpunggur.sch.id/index.php(202): require_once('/home/hanurata/...')
+#3 {main}
+  thrown in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php on line 8
+[11-Mar-2021 23:41:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function encode() on null in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php:8
+Stack trace:
+#0 /home/hanurata/maarifpunggur.sch.id/application/modules/auth/controllers/auth.php(15): Auth_Lib->encryptIt('jjjkk')
+#1 /home/hanurata/maarifpunggur.sch.id/system/core/CodeIgniter.php(359): Auth->index()
+#2 /home/hanurata/maarifpunggur.sch.id/index.php(202): require_once('/home/hanurata/...')
+#3 {main}
+  thrown in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php on line 8
+[11-Mar-2021 23:42:31 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php on line 8
+[11-Mar-2021 23:42:35 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php on line 8
+[11-Mar-2021 23:46:23 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php on line 8
+[11-Mar-2021 23:46:24 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php on line 8
+[11-Mar-2021 23:46:25 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php on line 8
+[11-Mar-2021 23:46:52 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php on line 8
+[11-Mar-2021 23:46:53 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php on line 8
+[11-Mar-2021 23:46:53 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php on line 8
+[11-Mar-2021 23:47:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Cannot access parent:: when current class scope has no parent in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php:7
+Stack trace:
+#0 /home/hanurata/maarifpunggur.sch.id/system/core/Loader.php(1100): Auth_Lib->__construct()
+#1 /home/hanurata/maarifpunggur.sch.id/system/core/Loader.php(976): CI_Loader->_ci_init_class('auth_lib', '', NULL, NULL)
+#2 /home/hanurata/maarifpunggur.sch.id/application/third_party/MX/Loader.php(158): CI_Loader->_ci_load_class('Auth_Lib', NULL, NULL)
+#3 /home/hanurata/maarifpunggur.sch.id/system/core/Loader.php(1179): MX_Loader->library('Auth_Lib')
+#4 /home/hanurata/maarifpunggur.sch.id/system/core/Loader.php(153): CI_Loader->_ci_autoloader()
+#5 /home/hanurata/maarifpunggur.sch.id/application/third_party/MX/Loader.php(62): CI_Loader->initialize()
+#6 /home/hanurata/maarifpunggur.sch.id/system/core/Controller.php(51): MX_Loader->initialize()
+#7 /home/hanurata/maarifpunggur.sch.id/application/third_party/MX/Base.php(55): CI_Controller->__construct()
+#8  in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php on line 7
+[11-Mar-2021 23:47:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function library() on null in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php:8
+Stack trace:
+#0 /home/hanurata/maarifpunggur.sch.id/application/modules/auth/controllers/auth.php(15): Auth_Lib->encryptIt('jjjkk')
+#1 /home/hanurata/maarifpunggur.sch.id/system/core/CodeIgniter.php(359): Auth->index()
+#2 /home/hanurata/maarifpunggur.sch.id/index.php(202): require_once('/home/hanurata/...')
+#3 {main}
+  thrown in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php on line 8
+[11-Mar-2021 23:48:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mcrypt_encrypt() in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php:8
+Stack trace:
+#0 /home/hanurata/maarifpunggur.sch.id/application/modules/auth/controllers/auth.php(15): Auth_Lib->encryptIt('jjjkk')
+#1 /home/hanurata/maarifpunggur.sch.id/system/core/CodeIgniter.php(359): Auth->index()
+#2 /home/hanurata/maarifpunggur.sch.id/index.php(202): require_once('/home/hanurata/...')
+#3 {main}
+  thrown in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php on line 8
+[11-Mar-2021 23:48:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mcrypt_encrypt() in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php:8
+Stack trace:
+#0 /home/hanurata/maarifpunggur.sch.id/application/modules/auth/controllers/auth.php(15): Auth_Lib->encryptIt('jjjkk')
+#1 /home/hanurata/maarifpunggur.sch.id/system/core/CodeIgniter.php(359): Auth->index()
+#2 /home/hanurata/maarifpunggur.sch.id/index.php(202): require_once('/home/hanurata/...')
+#3 {main}
+  thrown in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php on line 8
+[11-Mar-2021 23:48:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mcrypt_encrypt() in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php:8
+Stack trace:
+#0 /home/hanurata/maarifpunggur.sch.id/application/modules/auth/controllers/auth.php(15): Auth_Lib->encryptIt('jjjkk')
+#1 /home/hanurata/maarifpunggur.sch.id/system/core/CodeIgniter.php(359): Auth->index()
+#2 /home/hanurata/maarifpunggur.sch.id/index.php(202): require_once('/home/hanurata/...')
+#3 {main}
+  thrown in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php on line 8
+[11-Mar-2021 23:48:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mcrypt_encrypt() in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php:8
+Stack trace:
+#0 /home/hanurata/maarifpunggur.sch.id/application/modules/auth/controllers/auth.php(15): Auth_Lib->encryptIt('jjjkk')
+#1 /home/hanurata/maarifpunggur.sch.id/system/core/CodeIgniter.php(359): Auth->index()
+#2 /home/hanurata/maarifpunggur.sch.id/index.php(202): require_once('/home/hanurata/...')
+#3 {main}
+  thrown in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php on line 8
+[11-Mar-2021 23:48:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mcrypt_encrypt() in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php:8
+Stack trace:
+#0 /home/hanurata/maarifpunggur.sch.id/application/modules/auth/controllers/auth.php(15): Auth_Lib->encryptIt('jjjkk')
+#1 /home/hanurata/maarifpunggur.sch.id/system/core/CodeIgniter.php(359): Auth->index()
+#2 /home/hanurata/maarifpunggur.sch.id/index.php(202): require_once('/home/hanurata/...')
+#3 {main}
+  thrown in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php on line 8
+[11-Mar-2021 23:48:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mcrypt_encrypt() in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php:8
+Stack trace:
+#0 /home/hanurata/maarifpunggur.sch.id/application/modules/auth/controllers/auth.php(15): Auth_Lib->encryptIt('jjjkk')
+#1 /home/hanurata/maarifpunggur.sch.id/system/core/CodeIgniter.php(359): Auth->index()
+#2 /home/hanurata/maarifpunggur.sch.id/index.php(202): require_once('/home/hanurata/...')
+#3 {main}
+  thrown in /home/hanurata/maarifpunggur.sch.id/application/libraries/Auth_Lib.php on line 8
+[11-Mar-2021 23:50:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function encryptIt() on null in /home/hanurata/maarifpunggur.sch.id/application/modules/auth/controllers/auth.php:15
+Stack trace:
+#0 /home/hanurata/maarifpunggur.sch.id/system/core/CodeIgniter.php(359): Auth->index()
+#1 /home/hanurata/maarifpunggur.sch.id/index.php(202): require_once('/home/hanurata/...')
+#2 {main}
+  thrown in /home/hanurata/maarifpunggur.sch.id/application/modules/auth/controllers/auth.php on line 15
+[11-Mar-2021 23:51:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function encryptIt() on null in /home/hanurata/maarifpunggur.sch.id/application/modules/auth/controllers/auth.php:15
+Stack trace:
+#0 /home/hanurata/maarifpunggur.sch.id/system/core/CodeIgniter.php(359): Auth->index()
+#1 /home/hanurata/maarifpunggur.sch.id/index.php(202): require_once('/home/hanurata/...')
+#2 {main}
+  thrown in /home/hanurata/maarifpunggur.sch.id/application/modules/auth/controllers/auth.php on line 15
+[12-Mar-2021 04:54:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function decryptIt() on null in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/modules/api/controllers/rest_admin.php:34
+Stack trace:
+#0 /home/hanurata/tracerstudy.maarifpunggur.sch.id/system/core/CodeIgniter.php(359): Rest_admin->index()
+#1 /home/hanurata/tracerstudy.maarifpunggur.sch.id/index.php(202): require_once('/home/hanurata/...')
+#2 {main}
+  thrown in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/modules/api/controllers/rest_admin.php on line 34
+[12-Mar-2021 04:55:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function decryptIt() on null in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/modules/api/controllers/rest_admin.php:34
+Stack trace:
+#0 /home/hanurata/tracerstudy.maarifpunggur.sch.id/system/core/CodeIgniter.php(359): Rest_admin->index()
+#1 /home/hanurata/tracerstudy.maarifpunggur.sch.id/index.php(202): require_once('/home/hanurata/...')
+#2 {main}
+  thrown in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/modules/api/controllers/rest_admin.php on line 34
+[12-Mar-2021 04:55:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function decryptIt() on null in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/modules/api/controllers/rest_admin.php:34
+Stack trace:
+#0 /home/hanurata/tracerstudy.maarifpunggur.sch.id/system/core/CodeIgniter.php(359): Rest_admin->index()
+#1 /home/hanurata/tracerstudy.maarifpunggur.sch.id/index.php(202): require_once('/home/hanurata/...')
+#2 {main}
+  thrown in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/modules/api/controllers/rest_admin.php on line 34
+[12-Mar-2021 04:56:27 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/modules/api/controllers/rest_user.php on line 21
+[12-Mar-2021 04:56:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function decryptIt() on null in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/modules/api/controllers/rest_admin.php:34
+Stack trace:
+#0 /home/hanurata/tracerstudy.maarifpunggur.sch.id/system/core/CodeIgniter.php(359): Rest_admin->index()
+#1 /home/hanurata/tracerstudy.maarifpunggur.sch.id/index.php(202): require_once('/home/hanurata/...')
+#2 {main}
+  thrown in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/modules/api/controllers/rest_admin.php on line 34
+[12-Mar-2021 04:57:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function decryptIt() on null in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/modules/api/controllers/rest_admin.php:34
+Stack trace:
+#0 /home/hanurata/tracerstudy.maarifpunggur.sch.id/system/core/CodeIgniter.php(359): Rest_admin->index()
+#1 /home/hanurata/tracerstudy.maarifpunggur.sch.id/index.php(202): require_once('/home/hanurata/...')
+#2 {main}
+  thrown in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/modules/api/controllers/rest_admin.php on line 34
+[12-Mar-2021 04:58:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function decryptIt() on null in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/views/admin/default/alumni/add.php:113
+Stack trace:
+#0 /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/third_party/MX/Loader.php(321): include()
+#1 /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/third_party/MX/Loader.php(269): MX_Loader->_ci_load(Array)
+#2 /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/core/MY_Controller.php(76): MX_Loader->view('admin/default/a...', Array, true)
+#3 /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/modules/administrator/controllers/alumni.php(31): MY_Controller->load_admin('alumni/add')
+#4 /home/hanurata/tracerstudy.maarifpunggur.sch.id/system/core/CodeIgniter.php(359): Alumni->update('54')
+#5 /home/hanurata/tracerstudy.maarifpunggur.sch.id/index.php(202): require_once('/home/hanurata/...')
+#6 {main}
+  thrown in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/views/admin/default/alumni/add.php on line 113
+[12-Mar-2021 04:59:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function decryptIt() on null in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/views/admin/default/alumni/add.php:113
+Stack trace:
+#0 /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/third_party/MX/Loader.php(321): include()
+#1 /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/third_party/MX/Loader.php(269): MX_Loader->_ci_load(Array)
+#2 /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/core/MY_Controller.php(76): MX_Loader->view('admin/default/a...', Array, true)
+#3 /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/modules/administrator/controllers/alumni.php(31): MY_Controller->load_admin('alumni/add')
+#4 /home/hanurata/tracerstudy.maarifpunggur.sch.id/system/core/CodeIgniter.php(359): Alumni->update('54')
+#5 /home/hanurata/tracerstudy.maarifpunggur.sch.id/index.php(202): require_once('/home/hanurata/...')
+#6 {main}
+  thrown in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/views/admin/default/alumni/add.php on line 113
+[12-Mar-2021 06:23:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method CI_Output::delete_cache() in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/modules/home/controllers/beranda.php:7
+Stack trace:
+#0 /home/hanurata/tracerstudy.maarifpunggur.sch.id/system/core/CodeIgniter.php(359): Beranda->index()
+#1 /home/hanurata/tracerstudy.maarifpunggur.sch.id/index.php(202): require_once('/home/hanurata/...')
+#2 {main}
+  thrown in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/modules/home/controllers/beranda.php on line 7
+[12-Mar-2021 06:24:55 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ')' in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/modules/home/controllers/beranda.php on line 7
+[12-Mar-2021 06:25:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method CI_Output::clear_all_cache() in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/modules/home/controllers/beranda.php:7
+Stack trace:
+#0 /home/hanurata/tracerstudy.maarifpunggur.sch.id/system/core/CodeIgniter.php(359): Beranda->index()
+#1 /home/hanurata/tracerstudy.maarifpunggur.sch.id/index.php(202): require_once('/home/hanurata/...')
+#2 {main}
+  thrown in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/modules/home/controllers/beranda.php on line 7
+[12-Mar-2021 06:25:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method CI_Output::clear_all_cache() in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/modules/home/controllers/beranda.php:7
+Stack trace:
+#0 /home/hanurata/tracerstudy.maarifpunggur.sch.id/system/core/CodeIgniter.php(359): Beranda->index()
+#1 /home/hanurata/tracerstudy.maarifpunggur.sch.id/index.php(202): require_once('/home/hanurata/...')
+#2 {main}
+  thrown in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/modules/home/controllers/beranda.php on line 7
+[12-Mar-2021 06:26:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function delete_cache() in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/modules/home/controllers/beranda.php:7
+Stack trace:
+#0 /home/hanurata/tracerstudy.maarifpunggur.sch.id/system/core/CodeIgniter.php(359): Beranda->index()
+#1 /home/hanurata/tracerstudy.maarifpunggur.sch.id/index.php(202): require_once('/home/hanurata/...')
+#2 {main}
+  thrown in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/modules/home/controllers/beranda.php on line 7
+[12-Mar-2021 06:26:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function delete_cache() in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/modules/home/controllers/beranda.php:7
+Stack trace:
+#0 /home/hanurata/tracerstudy.maarifpunggur.sch.id/system/core/CodeIgniter.php(359): Beranda->index()
+#1 /home/hanurata/tracerstudy.maarifpunggur.sch.id/index.php(202): require_once('/home/hanurata/...')
+#2 {main}
+  thrown in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/modules/home/controllers/beranda.php on line 7
+[12-Mar-2021 06:26:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function delete_cache() in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/modules/home/controllers/beranda.php:7
+Stack trace:
+#0 /home/hanurata/tracerstudy.maarifpunggur.sch.id/system/core/CodeIgniter.php(359): Beranda->index()
+#1 /home/hanurata/tracerstudy.maarifpunggur.sch.id/index.php(202): require_once('/home/hanurata/...')
+#2 {main}
+  thrown in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/modules/home/controllers/beranda.php on line 7
+[12-Mar-2021 06:27:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function delete_cache() in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/views/themes/default/home/index.php:120
+Stack trace:
+#0 /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/third_party/MX/Loader.php(321): include()
+#1 /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/third_party/MX/Loader.php(269): MX_Loader->_ci_load(Array)
+#2 /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/core/MY_Controller.php(66): MX_Loader->view('themes/default/...', Array)
+#3 /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/modules/home/controllers/beranda.php(7): MY_Controller->load_theme('home/index', false)
+#4 /home/hanurata/tracerstudy.maarifpunggur.sch.id/system/core/CodeIgniter.php(359): Beranda->index()
+#5 /home/hanurata/tracerstudy.maarifpunggur.sch.id/index.php(202): require_once('/home/hanurata/...')
+#6 {main}
+  thrown in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/views/themes/default/home/index.php on line 120
+[12-Mar-2021 06:27:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function delete_cache() in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/views/themes/default/home/index.php:120
+Stack trace:
+#0 /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/third_party/MX/Loader.php(321): include()
+#1 /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/third_party/MX/Loader.php(269): MX_Loader->_ci_load(Array)
+#2 /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/core/MY_Controller.php(66): MX_Loader->view('themes/default/...', Array)
+#3 /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/modules/home/controllers/beranda.php(7): MY_Controller->load_theme('home/index', false)
+#4 /home/hanurata/tracerstudy.maarifpunggur.sch.id/system/core/CodeIgniter.php(359): Beranda->index()
+#5 /home/hanurata/tracerstudy.maarifpunggur.sch.id/index.php(202): require_once('/home/hanurata/...')
+#6 {main}
+  thrown in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/views/themes/default/home/index.php on line 120
+[12-Mar-2021 06:28:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined method CI_Output::delete_cache() in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/modules/home/controllers/beranda.php:8
+Stack trace:
+#0 /home/hanurata/tracerstudy.maarifpunggur.sch.id/system/core/CodeIgniter.php(359): Beranda->index()
+#1 /home/hanurata/tracerstudy.maarifpunggur.sch.id/index.php(202): require_once('/home/hanurata/...')
+#2 {main}
+  thrown in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/modules/home/controllers/beranda.php on line 8
+[22-Apr-2021 11:47:59 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/views/alumni/default/dashboard/index.php on line 105
+[22-Apr-2021 11:48:01 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/views/alumni/default/dashboard/index.php on line 105
+[22-Apr-2021 13:27:09 Asia/Jakarta] PHP Fatal error:  Uncaught PHPExcel_Exception: Your requested sheet index: -1 is out of bounds. The actual number of sheets is 0. in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/libraries/PHPExcel.php:584
+Stack trace:
+#0 /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/libraries/PHPExcel.php(477): PHPExcel->getSheet(-1)
+#1 /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/modules/api/controllers/rest_alumni.php(449): PHPExcel->getActiveSheet()
+#2 /home/hanurata/tracerstudy.maarifpunggur.sch.id/system/core/CodeIgniter.php(359): Rest_alumni->import_xls()
+#3 /home/hanurata/tracerstudy.maarifpunggur.sch.id/index.php(202): require_once('/home/hanurata/...')
+#4 {main}
+  thrown in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/libraries/PHPExcel.php on line 584
+[27-May-2021 00:17:56 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Alumni_tools::import() in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/modules/administrator/controllers/alumni_tools.php on line 22
+[27-May-2021 02:04:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function set_magic_quotes_runtime() in /home/hanurata/tracerstudy.maarifpunggur.sch.id/SQLyogTunnel.php:1573
+Stack trace:
+#0 {main}
+  thrown in /home/hanurata/tracerstudy.maarifpunggur.sch.id/SQLyogTunnel.php on line 1573
+[27-May-2021 02:04:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function set_magic_quotes_runtime() in /home/hanurata/tracerstudy.maarifpunggur.sch.id/SQLyogTunnel.php:1573
+Stack trace:
+#0 {main}
+  thrown in /home/hanurata/tracerstudy.maarifpunggur.sch.id/SQLyogTunnel.php on line 1573
+[27-May-2021 02:04:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function set_magic_quotes_runtime() in /home/hanurata/tracerstudy.maarifpunggur.sch.id/SQLyogTunnel.php:1573
+Stack trace:
+#0 {main}
+  thrown in /home/hanurata/tracerstudy.maarifpunggur.sch.id/SQLyogTunnel.php on line 1573
+[27-May-2021 02:04:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function set_magic_quotes_runtime() in /home/hanurata/tracerstudy.maarifpunggur.sch.id/SQLyogTunnel.php:1573
+Stack trace:
+#0 {main}
+  thrown in /home/hanurata/tracerstudy.maarifpunggur.sch.id/SQLyogTunnel.php on line 1573
+[27-May-2021 02:04:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function set_magic_quotes_runtime() in /home/hanurata/tracerstudy.maarifpunggur.sch.id/SQLyogTunnel.php:1573
+Stack trace:
+#0 {main}
+  thrown in /home/hanurata/tracerstudy.maarifpunggur.sch.id/SQLyogTunnel.php on line 1573
+[27-May-2021 02:04:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function set_magic_quotes_runtime() in /home/hanurata/tracerstudy.maarifpunggur.sch.id/SQLyogTunnel.php:1573
+Stack trace:
+#0 {main}
+  thrown in /home/hanurata/tracerstudy.maarifpunggur.sch.id/SQLyogTunnel.php on line 1573
+[27-May-2021 02:20:33 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/modules/api/controllers/rest_kuesioner.php on line 23
+[27-May-2021 02:20:37 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/modules/api/controllers/rest_kuesioner.php on line 23
+[27-May-2021 02:26:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function jsondecode() in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/modules/api/controllers/rest_kuesioner.php:23
+Stack trace:
+#0 /home/hanurata/tracerstudy.maarifpunggur.sch.id/system/core/CodeIgniter.php(359): Rest_kuesioner->save()
+#1 /home/hanurata/tracerstudy.maarifpunggur.sch.id/index.php(202): require_once('/home/hanurata/...')
+#2 {main}
+  thrown in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/modules/api/controllers/rest_kuesioner.php on line 23
+[27-May-2021 02:26:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function jsondecode() in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/modules/api/controllers/rest_kuesioner.php:23
+Stack trace:
+#0 /home/hanurata/tracerstudy.maarifpunggur.sch.id/system/core/CodeIgniter.php(359): Rest_kuesioner->save()
+#1 /home/hanurata/tracerstudy.maarifpunggur.sch.id/index.php(202): require_once('/home/hanurata/...')
+#2 {main}
+  thrown in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/modules/api/controllers/rest_kuesioner.php on line 23
+[27-May-2021 03:18:09 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/views/alumni/default/kuesioner/index.php on line 665
+[27-May-2021 03:21:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function field() on null in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/views/alumni/default/kuesioner/index.php:92
+Stack trace:
+#0 /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/third_party/MX/Loader.php(321): include()
+#1 /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/third_party/MX/Loader.php(269): MX_Loader->_ci_load(Array)
+#2 /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/core/MY_Controller.php(94): MX_Loader->view('alumni/default/...', Array)
+#3 /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/modules/alumni/controllers/kuesioner.php(14): MY_Controller->load_alumni('kuesioner/index', false)
+#4 /home/hanurata/tracerstudy.maarifpunggur.sch.id/system/core/CodeIgniter.php(359): Kuesioner->index()
+#5 /home/hanurata/tracerstudy.maarifpunggur.sch.id/index.php(202): require_once('/home/hanurata/...')
+#6 {main}
+  thrown in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/views/alumni/default/kuesioner/index.php on line 92
+[27-May-2021 03:22:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function field() on null in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/views/alumni/default/kuesioner/index.php:92
+Stack trace:
+#0 /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/third_party/MX/Loader.php(321): include()
+#1 /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/third_party/MX/Loader.php(269): MX_Loader->_ci_load(Array)
+#2 /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/core/MY_Controller.php(94): MX_Loader->view('alumni/default/...', Array)
+#3 /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/modules/alumni/controllers/kuesioner.php(14): MY_Controller->load_alumni('kuesioner/index', false)
+#4 /home/hanurata/tracerstudy.maarifpunggur.sch.id/system/core/CodeIgniter.php(359): Kuesioner->index()
+#5 /home/hanurata/tracerstudy.maarifpunggur.sch.id/index.php(202): require_once('/home/hanurata/...')
+#6 {main}
+  thrown in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/views/alumni/default/kuesioner/index.php on line 92
+[27-May-2021 06:36:52 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Alumni_tools::import() in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/modules/administrator/controllers/alumni_tools.php on line 22
+[27-May-2021 06:37:25 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Alumni_tools::import() in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/modules/administrator/controllers/alumni_tools.php on line 22
+[27-May-2021 09:02:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function get_by() on null in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/modules/api/controllers/rest_alumni.php:458
+Stack trace:
+#0 /home/hanurata/tracerstudy.maarifpunggur.sch.id/system/core/CodeIgniter.php(359): Rest_alumni->import_xls()
+#1 /home/hanurata/tracerstudy.maarifpunggur.sch.id/index.php(202): require_once('/home/hanurata/...')
+#2 {main}
+  thrown in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/modules/api/controllers/rest_alumni.php on line 458
+[09-Sep-2021 09:08:25 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function CI_Session::userdata(), 0 passed in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/modules/administrator/controllers/dashboard.php on line 16 and exactly 1 expected in /home/hanurata/tracerstudy.maarifpunggur.sch.id/system/libraries/Session.php:428
+Stack trace:
+#0 /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/modules/administrator/controllers/dashboard.php(16): CI_Session->userdata()
+#1 /home/hanurata/tracerstudy.maarifpunggur.sch.id/system/core/CodeIgniter.php(359): Dashboard->index()
+#2 /home/hanurata/tracerstudy.maarifpunggur.sch.id/index.php(202): require_once('/home/hanurata/...')
+#3 {main}
+  thrown in /home/hanurata/tracerstudy.maarifpunggur.sch.id/system/libraries/Session.php on line 428
+[09-Sep-2021 16:26:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/modules/api/controllers/rest_kuesioner.php:19
+Stack trace:
+#0 /home/hanurata/tracerstudy.maarifpunggur.sch.id/system/core/CodeIgniter.php(359): Rest_kuesioner->getKuesAlumni()
+#1 /home/hanurata/tracerstudy.maarifpunggur.sch.id/index.php(202): require_once('/home/hanurata/...')
+#2 {main}
+  thrown in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/modules/api/controllers/rest_kuesioner.php on line 19
+[09-Sep-2021 16:31:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/modules/api/controllers/rest_kuesioner.php:19
+Stack trace:
+#0 /home/hanurata/tracerstudy.maarifpunggur.sch.id/system/core/CodeIgniter.php(359): Rest_kuesioner->getKuesAlumni()
+#1 /home/hanurata/tracerstudy.maarifpunggur.sch.id/index.php(202): require_once('/home/hanurata/...')
+#2 {main}
+  thrown in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/modules/api/controllers/rest_kuesioner.php on line 19
+[09-Sep-2021 16:31:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/modules/api/controllers/rest_kuesioner.php:19
+Stack trace:
+#0 /home/hanurata/tracerstudy.maarifpunggur.sch.id/system/core/CodeIgniter.php(359): Rest_kuesioner->getKuesAlumni()
+#1 /home/hanurata/tracerstudy.maarifpunggur.sch.id/index.php(202): require_once('/home/hanurata/...')
+#2 {main}
+  thrown in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/modules/api/controllers/rest_kuesioner.php on line 19
+[09-Sep-2021 16:34:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/modules/api/controllers/rest_kuesioner.php:18
+Stack trace:
+#0 /home/hanurata/tracerstudy.maarifpunggur.sch.id/system/core/CodeIgniter.php(359): Rest_kuesioner->getKuesAlumni()
+#1 /home/hanurata/tracerstudy.maarifpunggur.sch.id/index.php(202): require_once('/home/hanurata/...')
+#2 {main}
+  thrown in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/modules/api/controllers/rest_kuesioner.php on line 18
+[09-Sep-2021 16:34:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/modules/api/controllers/rest_kuesioner.php:18
+Stack trace:
+#0 /home/hanurata/tracerstudy.maarifpunggur.sch.id/system/core/CodeIgniter.php(359): Rest_kuesioner->getKuesAlumni()
+#1 /home/hanurata/tracerstudy.maarifpunggur.sch.id/index.php(202): require_once('/home/hanurata/...')
+#2 {main}
+  thrown in /home/hanurata/tracerstudy.maarifpunggur.sch.id/application/modules/api/controllers/rest_kuesioner.php on line 18
